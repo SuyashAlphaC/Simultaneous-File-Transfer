@@ -24,7 +24,7 @@ This application allows users to send files to multiple destinations at once or 
 
 1. Clone this repository:
    ```
-   git clone https://github.com/S/simultaneous-file-transfer.git
+   git clone https://github.com/SuyashAlphaC/Simultaneous-File-Transfer.git
    ```
 
 2. Navigate to the project directory:
