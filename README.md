@@ -29,7 +29,7 @@ This application allows users to send files to multiple destinations at once or 
 
 2. Navigate to the project directory:
    ```
-   cd simultaneous-file-transfer
+   cd Simultaneous-File-Transfer
    ```
 
 3. Run the application:
