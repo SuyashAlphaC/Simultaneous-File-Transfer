@@ -10,5 +10,5 @@ This is the Animation for the exampler File-Transfer Protocol where a Server sen
 1. **Install Python**
 2. **Run the following command in the Terminal :**
    ```bash
-   $ python CNLAB.py
+   $ python file_transfer.py
    ```
